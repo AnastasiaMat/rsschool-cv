@@ -4,7 +4,7 @@
 
 e-mail: anvictma@gmail.com
 
-git: anastasia-v-m
+git: AnastasiaMat
 
 discord: Anastasiya#5706
 
