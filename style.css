@@ -1,3 +1,22 @@
 h1 {
     font-size: 2em;
+    color: rgb(83, 23, 23);
+}
+
+h3 {
+    font-size: 1.55em;
+    color: rgb(182, 52, 52);
+}
+
+div {
+    margin: 15px 20px;
+    color: #575757;
+}
+
+pre {
+    color: rgb(67, 44, 131);
+}
+
+body {
+    background-color: rgb(243, 238, 165);
 }
